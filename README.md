@@ -11,7 +11,7 @@ All goals require DLC completions (either 4/8 or 8/8, depending on which goal yo
 - Town/Settlement Unlocks for both games
 - New Worldspace Mod Unlocks for both games
 - Main Quest Unlocks for both games
-- Union Station Unlock (TTW Exclusive!)
+- Union Station Unlock (Can be unlocked in Fallout 3 only runs, but does not do anything tangible beyond one check. Mostly useful for TTW runs.)
 - Fallout New Vegas Companion Unlocks
 - DLC Unlocks for both games
 - Fallout 3 Non-Town Area Unlocks (just so a few quests don't become in-logic quite so fast)
