@@ -1,5 +1,5 @@
 # Tale-of-Two-Wastelands
-A randomizer for the popular Tale of Two Wastelands mod. Comes with a few extra new worldspace mods that I felt fit into the game snugly and were recommended as a part of the Wasteland Survival Guide modpack, which is the basis for what is getting randomizes. Does not include any faction-specific content mods like the Yet To Be Released Long 15 Expansion or the Nova Arizona mod for compatibility reasons (I mostly don't want to include them because that's a lot of free checks once you fail the respective group's reputation checks, plus I would have to make a lot of new checks in the first place and I CBA to do that.)
+A randomizer for the popular Tale of Two Wastelands mod. Comes with a few extra new worldspace mods that I felt fit into the game snugly and were recommended as a part of the Wasteland Survival Guide modpack, which is the basis for what is getting randomized. Does not include any faction-specific content mods like the Yet To Be Released Long 15 Expansion or the Nova Arizona mod for compatibility reasons (I mostly don't want to include them because that's a lot of free checks once you fail the respective group's reputation checks, plus I would have to make a lot of new checks in the first place and I CBA to do that.)
 
 ## Goals
 - Blowing up the Enclave Mobile Base (Fallout 3 main Quest Completion)
@@ -19,7 +19,7 @@ All goals require DLC completions (either 4/8 or 8/8, depending on which goal yo
 ## Checks
 - Completing the various Side-Quests in both games
 - Completing Modded Quests
-- Completing DLC Quests
+- Completing DLC Quests for both games
 - Killing Specific Bosses in Dead Money Tweaks
 - Visiting the Dead Money Tweaks-specific areas and clearing them out
 - Finding all the Item Codes from Dead Money and Dead Money Tweaks
