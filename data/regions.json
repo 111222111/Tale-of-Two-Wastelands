@@ -1,0 +1,126 @@
+{
+  "Fallout 3 Main Quest": {
+    "connects_to": [
+      "Operation Anchorage",
+      "Point Lookout",
+      "Broken Steel",
+      "A Trail of Crumbs",
+      "The Pitt",
+      "Mothership Zeta"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:1|",
+    "starting": false
+  },
+  "Fallout 3 Side Quests": {
+    "connects_to": [
+      "Fallout 3 Main Quest"
+    ],
+    "requires": [],
+    "starting": false
+  },
+  "Operation Anchorage": {
+    "connects_to": [],
+    "requires": "|Bailey's Crossroads Unlock| AND |Progressive Fallout 3 Main Quest:8|"
+  },
+  "The Pitt": {
+    "connects_to": [],
+    "requires": "|The Pitt Unlock|"
+  },
+  "Point Lookout": {
+    "connects_to": [],
+    "requires": "|Point Lookout Unlock| AND |Progressive Fallout 3 Main Quest:4|"
+  },
+  "Broken Steel": {
+    "connects_to": [
+      "Rebuild the Capital",
+      "Alton. IL",
+      "Washington's Malevolence"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9|"
+  },
+  "Mothership Zeta": {
+    "connects_to": [],
+    "requires": "|Mothership Zeta Unlock| AND |Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |The Pitt Unlock| AND |Point Lookout Unlock|"
+  },
+  "Rebuild the Capital": {
+    "connects_to": [],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock|"
+  },
+  "New Vegas Main Quest": {
+    "connects_to": [
+      "New Vegas Side Quests",
+      "New Vegas Unmarked Quests",
+      "New Vegas Branching Quests",
+      "Honest Hearts",
+      "Havasu Blues"
+    ],
+    "requires": []
+  },
+  "New Vegas Side Quests": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Dead Money": {
+    "connects_to": [
+      "Old World Blues"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Dead Money Unlock|"
+  },
+  "Honest Hearts": {
+    "connects_to": [
+      "Dead Money"
+    ],
+    "requires": "|New Vegas Unlock| AND  |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Honest Hearts Unlock|"
+  },
+  "Old World Blues": {
+    "connects_to": [
+      "Lonesome Road"
+    ],
+    "requires": "|New Vegas Unlock| AND  |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Old World Blues Unlock| AND |Dead Money Unlock| AND |Honest Hearts Unlock|"
+  },
+  "Lonesome Road": {
+    "connects_to": [],
+    "requires": "|New Vegas Unlock| AND |Dead Money Unlock|  AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Honest Hearts Unlock| AND |Dead Money Unlock| AND |Old World Blues Unlock| AND |Lonesome Road Unlock| AND |ED-E Unlock|"
+  },
+  "Alton. IL": {
+    "connects_to": [],
+    "requires": "|Alton, IL Unlock| AND |Brotherhood Outcasts Unlock|"
+  },
+  "Washington's Malevolence": {
+    "connects_to": [],
+    "requires": "|Washington's Malevolence Unlock| AND |Progressive Fallout 3 Main Quest:5| AND |The Citadel Unlock|"
+  },
+  "A Trail of Crumbs": {
+    "connects_to": [],
+    "requires": "|Progressive Fallout 3 Main Quest:5|"
+  },
+  "Fallout 3 Unmarked Quests": {
+    "connects_to": [
+      "Fallout 3 Main Quest"
+    ],
+    "requires": [],
+    "starting": false
+  },
+  "New Vegas Unmarked Quests": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Escape From Vault 101": {
+    "connects_to": [
+      "Fallout 3 Main Quest",
+      "Fallout 3 Side Quests",
+      "Fallout 3 Unmarked Quests",
+      "New Vegas Main Quest"
+    ],
+    "starting": true,
+    "requires": []
+  },
+  "New Vegas Branching Quests": {
+    "connects_to": [],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND (|New California Republic Main Quest Unlock| OR |Caesar's Legion Main Quest Unlock| OR |Mr. House Main Quest Unlock| OR |Yes Man Main Quest Unlock|)"
+  },
+  "Havasu Blues": {
+    "connects_to": [],
+    "requires": "|They Went That-a-Way Unlock| AND |Novac Unlock| AND |Havasu Blues Unlock|"
+  }
+}
