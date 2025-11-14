@@ -1,0 +1,822 @@
+[
+  {
+    "count": 1,
+    "name": "Arefu Unlock",
+    "category": [
+      "Arefu",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Town Unlock",
+    "category": [
+      "Big Town",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Canterbury Commons Unlock",
+    "category": [
+      "Canterbury Commons",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Girdershade Unlock",
+    "category": [
+      "Girdershade",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grayditch Unlock",
+    "category": [
+      "Grayditch",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Little Lamplight Unlock",
+    "category": [
+      "Little Lamplight",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Oasis Unlock",
+    "category": [
+      "Oasis",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Paradise Falls Unlock",
+    "category": [
+      "Paradise Falls",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Republic of Dave Unlock",
+    "category": [
+      "Republic of Dave",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rivet City Unlock",
+    "category": [
+      "Rivet City",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Union Unlock",
+    "category": [
+      "Temple of the Union",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tenpenny Tower Unlock",
+    "category": [
+      "Tenpenny Tower",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Citadel Unlock",
+    "category": [
+      "The Citadel",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Underworld Unlock",
+    "category": [
+      "Underworld",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bailey's Crossroads Unlock",
+    "category": [
+      "Operation Anchorage",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dupont Circle Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Georgetown Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "L'Enfant Plaza Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mason District Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Seward Square Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Takoma Park Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vernon Square Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Primm Unlock",
+    "category": [
+      "Primm",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "NCRCF Unlock",
+    "category": [
+      "NCRCF",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sloan Unlock",
+    "category": [
+      "Sloan",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nipton Unlock",
+    "category": [
+      "Nipton",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Novac Unlock",
+    "category": [
+      "Novac Unlock",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nellis Airforce Base Unlock",
+    "category": [
+      "Nellis Airforce Base",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red Rock Canyon Unlock",
+    "category": [
+      "Red Rock Canyon",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hidden Valley Unlock",
+    "category": [
+      "Hidden Valley",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jacobstown Unlock",
+    "category": [
+      "Jacobstown",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boulder City Unlock",
+    "category": [
+      "Boulder City",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Fort Unlock",
+    "category": [
+      "The Fort",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hoover Dam Unlock",
+    "category": [
+      "Hoover Dam",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camp McCarran Unlock",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crimson Caravan Company Unlock",
+    "category": [
+      "Crimson Caravan Company",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Westside Unlock",
+    "category": [
+      "Westside",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Freeside Unlock",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New Vegas Unlock",
+    "category": [
+      "New Vegas",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mojave Outpost Unlock",
+    "category": [
+      "Mojave Outpost",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "188 Trading Post Unlock",
+    "category": [
+      "188 Trading Post",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aerotech Office Park Unlock",
+    "category": [
+      "Aerotech Office Park",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "NCR Camps Unlock",
+    "category": [
+      "NCR Camps",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Hill Unlock",
+    "category": [
+      "Black Hill",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Point Lookout Unlock",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Pitt Unlock",
+    "category": [
+      "The Pitt",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Steel Unlock",
+    "category": [
+      "Broken Steel",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mothership Zeta Unlock",
+    "category": [
+      "Mothership Zeta",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dead Money Unlock",
+    "category": [
+      "Dead Money",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Honest Hearts Unlock",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Old World Blues Unlock",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lonesome Road Unlock",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Washington's Malevolence Unlock",
+    "category": [
+      "Washington's Malevolence"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alton, IL Unlock",
+    "category": [
+      "Alton",
+      "IL"
+    ],
+    "progression": true
+  },
+  {
+    "count": "9",
+    "name": "Progressive Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "They Went That-a-Way Unlock",
+    "category": [
+      "New Vegas Main Quest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ring-a-Ding-Ding! Unlock",
+    "category": [
+      "New Vegas Main Quest",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yes Man Main Quest Unlock",
+    "category": [
+      "New Vegas Branching Main Quest",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New California Republic Main Quest Unlock",
+    "category": [
+      "New Vegas Branching Main Quest",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mr. House Main Quest Unlock",
+    "category": [
+      "New Vegas Branching Main Quest",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Caesar's Legion Main Quest Unlock",
+    "category": [
+      "New Vegas Branching Main Quest",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Energy Weapons Unlock",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Guns Unlock",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Melee Unlock",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Guns Unlock",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Explosives Unlock",
+    "category": [
+      "Weapons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rebuild the Capital Unlock",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Falls Church Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Union Station Unlock",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New Vegas Casinos Unlock",
+    "category": [
+      "New Vegas",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cass Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arcade Gannon Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rex Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ED-E Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lilly Bowen Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Raul Tejada Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Veronica Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Craig Boone Unlock",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cottonwood Cove Unlock",
+    "category": [
+      "Cottonwood Cove",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bitter Springs Unlock",
+    "category": [
+      "Bitter Springs",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camp Golf Unlock",
+    "category": [
+      "Camp Golf",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Mountain Unlock",
+    "category": [
+      "Black Mountain",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camp Forlorn Hope Unlock",
+    "category": [
+      "Camp Forlorn Hope",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camp Searchlight Unlock",
+    "category": [
+      "Camp Searchlight",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HELIOS One Unlock",
+    "category": [
+      "HELIOS One",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunset Sasparilla HQ Unlock",
+    "category": [
+      "Sunset Sasparilla HQ",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "NCR Sharecropper Farms Unlock",
+    "category": [
+      "NCR Sharecropper Farms",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nelson Unlock",
+    "category": [
+      "Nelson",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "North Vegas Square Unlock",
+    "category": [
+      "North Vegas Square",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chevy Chase Unlock",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Havasu Blues Unlock",
+    "category": [
+      "Havasu Blues",
+      "Fallout New Vegas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Brotherhood Outcasts Unlock",
+    "category": [
+      "Brotherhood Outcasts",
+      "Fallout 3"
+    ],
+    "progression": true
+  }
+]
