@@ -1,0 +1,3779 @@
+[
+  {
+    "name": "Power of the Atom Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": "|Explosives Unlock|"
+  },
+  {
+    "region": "Fallout 3 Side Quests",
+    "name": "Wasteland Survival Guide Chapter 1 Complete",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": "|Explosives Unlock|"
+  },
+  {
+    "name": "Escape! Complete",
+    "region": "Escape From Vault 101",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wasteland Survival Guide Chapter 2 Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": "|Melee Unlock| AND |Progressive Fallout 3 Main Quest:5|"
+  },
+  {
+    "name": "Wasteland Survival Guide Chapter 3 Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": "|Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:7|"
+  },
+  {
+    "name": "Treatment (Unmarked) Complete",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Following in His Footsteps Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest|"
+  },
+  {
+    "name": "Galaxy News Radio Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:2| AND |Chevy Chase Unlock|"
+  },
+  {
+    "name": "Scientific Pursuits Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:3| AND |Rivet City Unlock|",
+    "place_item": [
+      "Progressive Fallout 3 Main Quest"
+    ]
+  },
+  {
+    "name": "Tranquility Lane Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "The Waters of Life Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:5|",
+    "place_item": [
+      "The Citadel Unlock"
+    ]
+  },
+  {
+    "region": "Fallout 3 Main Quest",
+    "name": "Trouble on the Home Front (Timed Quest) Complete",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:5|"
+  },
+  {
+    "region": "Fallout 3 Main Quest",
+    "name": "Picking Up the Trail Complete",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|The Citadel Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Finding the Garden of Eden Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:7|",
+    "place_item": [
+      "Progressive Fallout 3 Main Quest"
+    ]
+  },
+  {
+    "name": "The American Dream Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:8|"
+  },
+  {
+    "name": "Take it Back!/Project Impurity Complete",
+    "region": "Fallout 3 Main Quest",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:9|"
+  },
+  {
+    "region": "Broken Steel",
+    "name": "Death from Above Complete",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shock Value Complete",
+    "region": "Broken Steel",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Broken Steel",
+    "name": "Who Dares, Wins Complete",
+    "category": [
+      "Fallout 3 Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Fly Swatter Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Fallen Eagle Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Paradise Liberated Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Ugly Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Thornton Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Emancipation/Lord of the Pitt Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |The Pitt Unlock|"
+  },
+  {
+    "name": "The Ghosts of the Past Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Clear Skies Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Rot Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Detention Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation Power Surge Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation End of Contract Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Atomic Harvest Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Death of Raider Leaders Operation Completed",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Parade on Penn Ave. Completed",
+    "region": "Broken Steel",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Local Flavor Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Point Lookout",
+    "name": "Walking With Spirits Complete",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hearing Voices Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Thought Control Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Meeting of the Minds Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Velvet Curtain Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Spoonfull of Whiskey Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "An Antique Land Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plik's Safari Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Dark Heart of Blackhall Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Into The Pitt Complete",
+    "region": "The Pitt",
+    "category": [
+      "The Pitt",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Pitt",
+    "name": "Unsafe Working Conditions Complete",
+    "category": [
+      "The Pitt",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Free Labor Complete",
+    "region": "The Pitt",
+    "category": [
+      "The Pitt",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mill Worker Complete (Unmarked)",
+    "region": "The Pitt",
+    "category": [
+      "The Pitt",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wild Bill's Last Stand Complete (Unmarked)",
+    "region": "The Pitt",
+    "category": [
+      "The Pitt",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Holy Water Complete",
+    "region": "Broken Steel",
+    "category": [
+      "Broken Steel",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Protecting the Water Way Complete",
+    "region": "Broken Steel",
+    "category": [
+      "Broken Steel",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Amazing Aqua Cura! Complete",
+    "region": "Broken Steel",
+    "category": [
+      "Broken Steel",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Sorrowfull Suitor Complete (Unmarked)",
+    "region": "Broken Steel",
+    "category": [
+      "Broken Steel",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wastelander Water Request Complete (Unmarked)",
+    "region": "Broken Steel",
+    "category": [
+      "Broken Steel",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tailing the Tomboy Complete",
+    "region": "Point Lookout",
+    "category": [
+      "Point Lookout",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Not of this World Complete",
+    "region": "Mothership Zeta",
+    "category": [
+      "Mothership Zeta",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Mothership Zeta",
+    "name": "Among the Stars Complete",
+    "category": [
+      "Mothership Zeta",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "This Galaxy Ain't Big Enough Complete",
+    "region": "Mothership Zeta",
+    "category": [
+      "Mothership Zeta",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Legend of Zeta Complete",
+    "region": "Mothership Zeta",
+    "category": [
+      "Mothership Zeta",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Agatha's Song Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "Big Trouble in Big Town Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Big Town",
+      "Fallout 3"
+    ],
+    "requires": "|Big Town Unlock| AND |Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "Kill the Rats in the Big Town Sewers Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Big Town",
+      "Fallout 3"
+    ],
+    "requires": "|Big Town Unlock|"
+  },
+  {
+    "name": "Find the Person the Note is Referring to Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Big Town",
+      "Fallout 3"
+    ],
+    "requires": "|Big Town Unlock|"
+  },
+  {
+    "name": "Head of State Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Temple of the Union",
+      "Fallout 3"
+    ],
+    "requires": "|Temple of the Union Unlock| AND |Progressive Fallout 3 Main Quest:2|"
+  },
+  {
+    "name": "Oasis Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Oasis",
+      "Fallout 3"
+    ],
+    "requires": "|Oasis Unlock| AND |Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "Reilly's Rangers Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Underworld",
+      "Fallout 3"
+    ],
+    "requires": "|Underworld Unlock| AND |Seward Square Unlock| AND |Progressive Fallout 3 Main Quest:6| AND |Vernon Square Unlock|"
+  },
+  {
+    "name": "You Gotta Shoot 'Em in the Head Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Underworld",
+      "Fallout 3"
+    ],
+    "requires": "|Underworld Unlock| AND |Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:7|"
+  },
+  {
+    "name": "Hired Help Completed (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Underworld",
+      "Fallout 3"
+    ],
+    "requires": "|Underworld Unlock| AND |Progressive Fallout 3 Main Quest:2|"
+  },
+  {
+    "name": "300 Pieces of Silver Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest|"
+  },
+  {
+    "name": "Stealing Independence Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Rivet City",
+      "Fallout 3"
+    ],
+    "requires": "|Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "The Replicated Man Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Rivet City",
+      "Fallout 3"
+    ],
+    "requires": "|Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:3|"
+  },
+  {
+    "name": "A Nice Day for a Right Wedding Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Rivet City",
+      "Fallout 3"
+    ],
+    "requires": "|Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:3|"
+  },
+  {
+    "name": "Council Seat Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Rivet City",
+      "Fallout 3"
+    ],
+    "requires": "|Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:3|"
+  },
+  {
+    "name": "Slave Hunt Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Rivet City",
+      "Fallout 3"
+    ],
+    "requires": "|Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:3|"
+  },
+  {
+    "name": "Tenpenny Tower Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Tenpenny Tower",
+      "Fallout 3"
+    ],
+    "requires": "|Tenpenny Tower Unlock| AND |Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "A Manhandled Manservant Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Tenpenny Tower",
+      "Fallout 3"
+    ],
+    "requires": "|Tenpenny Tower Unlock| AND |Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "The Nuka-Cola Challenge Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Girdershade",
+      "Fallout 3"
+    ],
+    "requires": "|Girdershade Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Just for the Taste of it (Only possible during The Nuka-Cola Challenge) (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Girdershade",
+      "Fallout 3"
+    ],
+    "requires": "|Girdershade Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Those! Complete (Counts as complete after the Ant Queen is Dead)",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Grayditch",
+      "Fallout 3"
+    ],
+    "requires": "|Grayditch Unlock| AND |Progressive Fallout 3 Main Quest|"
+  },
+  {
+    "name": "Find Brian Wilks' Family Complete (Actual Those! Ending)",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Grayditch",
+      "Fallout 3"
+    ],
+    "requires": "|Grayditch Unlock| AND |Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:3|"
+  },
+  {
+    "name": "The Superhuman Gambit Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Canterbury Commons",
+      "Fallout 3"
+    ],
+    "requires": "|Canterbury Commons Unlock| AND |Progressive Fallout 3 Main Quest:5|"
+  },
+  {
+    "name": "Merchant Empire Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Canterbury Commons",
+      "Fallout 3"
+    ],
+    "requires": "|Canterbury Commons Unlock| AND |Progressive Fallout 3 Main Quest:5|"
+  },
+  {
+    "name": "Rescue From Paradise Complete",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Little Lamplight",
+      "Fallout 3"
+    ],
+    "requires": "|Little Lamplight Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Happy Birthday to You Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Little Lamplight",
+      "Fallout 3"
+    ],
+    "requires": "|Little Lamplight Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Gallows Humor Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "The Citadel",
+      "Fallout 3"
+    ],
+    "requires": "|The Citadel Unlock| AND |Progressive Fallout 3 Main Quest:5|"
+  },
+  {
+    "name": "Election Day Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Republic of Dave",
+      "Fallout 3"
+    ],
+    "requires": "|Republic of Dave Unlock| AND |Progressive Fallout 3 Main Quest:5|"
+  },
+  {
+    "name": "Grady's Package Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Girdershade",
+      "Fallout 3"
+    ],
+    "requires": "|Grayditch Unlock| AND |Girdershade Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Keller Family Refuge Complete (Technically Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "Jiggs Loot Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:4|"
+  },
+  {
+    "name": "Leo's Drug Habit Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Megaton",
+      "Fallout 3"
+    ],
+    "requires": "|Explosives Unlock|"
+  },
+  {
+    "name": "Searching For Cheryl Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "requires": "|L'Enfant Plaza Unlock| AND |Progressive Fallout 3 Main Quest:6|"
+  },
+  {
+    "name": "The Lost Initiate Complete (Unmarked)",
+    "region": "Fallout 3 Unmarked Quests",
+    "category": [
+      "Non-Town Fallout 3 Location",
+      "Fallout 3"
+    ],
+    "requires": "|Falls Church Unlock| AND |Progressive Fallout 3 Main Quest:3|"
+  },
+  {
+    "name": "Union Station Complete",
+    "region": "Broken Steel",
+    "category": [
+      "Union Station",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9|",
+    "place_item": [
+      "New Vegas Unlock"
+    ]
+  },
+  {
+    "name": "Aiding the Outcasts Complete",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Security Team 1 Defeated",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Security Team 2 Defeated",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Security Team 3 Defeated",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Security Team 4 Defeated",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 1 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 2 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 3 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 4 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 5 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 6 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 7 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 8 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 9 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Intel 10 Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Officer's Sword Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pistol Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Carbine Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Assault Rifle Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grenade Rifle Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sniper Rifle Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Disposable Missile Launchers Collected",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Secret Boss Defeated",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Guns of Anchorage Complete",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Paving The Way Complete",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operation: Anchorage! Complete",
+    "region": "Operation Anchorage",
+    "category": [
+      "Anchorage Gameplay Expansion",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "New Vegas Main Quest",
+    "name": "Ain't That A Kick in the Head Complete",
+    "category": [
+      "New Vegas Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Back in the Saddle Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "By a Campfire on the Trail Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Town Gunfight Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "They Went That-a-Way Complete",
+    "region": "New Vegas Main Quest",
+    "category": [
+      "New Vegas Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock|"
+  },
+  {
+    "name": "Ring-a-Ding-Ding! Complete",
+    "region": "New Vegas Main Quest",
+    "category": [
+      "New Vegas Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock|",
+    "place_item_category": [
+      "New Vegas Branching Main Quest"
+    ]
+  },
+  {
+    "name": "Victory at Hoover Dam (Tale of Two Wastelands)",
+    "region": "New Vegas Branching Quests",
+    "victory": true,
+    "category": [
+      "New Vegas Main Quest"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:9| AND |Point Lookout Unlock| AND |Bailey's Crossroads Unlock| AND |Broken Steel Unlock| AND |The Pitt Unlock| AND |Mothership Zeta Unlock| AND |Rebuild the Capital Unlock| AND |New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Dead Money Unlock| AND |Honest Hearts Unlock| AND |Old World Blues Unlock| AND |Lonesome Road Unlock| AND (|New California Republic Main Quest Unlock| OR |Caesar's Legion Main Quest Unlock| OR |Mr. House Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |ED-E Unlock|"
+  },
+  {
+    "name": "The House Always Wins I Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock| AND |The Fort Unlock|"
+  },
+  {
+    "name": "The House Always Wins II Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock| AND |Nellis Airforce Base Unlock|"
+  },
+  {
+    "name": "The House Always Wins III Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock| AND |Nellis Airforce Base Unlock|"
+  },
+  {
+    "name": "The House Always Wins IV Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock| AND |New Vegas Casinos Unlock|"
+  },
+  {
+    "name": "The House Always Wins V Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock| AND |Hidden Valley Unlock|"
+  },
+  {
+    "name": "The House Always Wins VI Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock| AND |Hoover Dam Unlock|"
+  },
+  {
+    "name": "The House Always Wins VII Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Mr. House Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Mr. House Main Quest Unlock|"
+  },
+  {
+    "name": "Things That Go Boom Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "New California Republic Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |New California Republic Main Quest Unlock| AND |Nellis Airforce Base Unlock|"
+  },
+  {
+    "name": "Kings' Gambit Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "New California Republic Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |New California Republic Main Quest Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "For the Republic, Part 2 Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "New California Republic Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |New California Republic Main Quest Unlock| AND |Hoover Dam Unlock| AND |Red Rock Canyon Unlock| AND |Hidden Valley Unlock|"
+  },
+  {
+    "name": "You'll Know it When it Happens Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "New California Republic Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND (|New California Republic Main Quest Unlock| OR |Mr. House Main Quest Unlock|) AND |Hoover Dam Unlock|"
+  },
+  {
+    "name": "Render Unto Caesar Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Caesar's Legion Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Caesar's Legion Main Quest Unlock| AND |The Fort Unlock| AND |Nellis Airforce Base Unlock| AND |New Vegas Casinos Unlock| AND |Hidden Valley Unlock|"
+  },
+  {
+    "name": "Et Tumor Brute? Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Caesar's Legion Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Caesar's Legion Main Quest Unlock| AND |The Fort Unlock|"
+  },
+  {
+    "name": "Arizona Killer Complete",
+    "region": "New Vegas Branching Quests",
+    "category": [
+      "Caesar's Legion Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND |Caesar's Legion Main Quest Unlock| AND |The Fort Unlock| AND |Hoover Dam Unlock|"
+  },
+  {
+    "name": "Come Fly With Me Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Novac",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Novac Unlock|"
+  },
+  {
+    "name": "One For My Baby Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Novac Unlock| AND |Craig Boone Unlock|"
+  },
+  {
+    "name": "I Forgot to Remember to Forget Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Novac Unlock| AND |Craig Boone Unlock| AND |Bitter Springs Unlock|"
+  },
+  {
+    "name": "Volare! Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nellis Airforce Base",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND (|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR  |Caesar's Legion Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |Nellis Airforce Base Unlock|"
+  },
+  {
+    "name": "Ant Misbehavin' Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nellis Airforce Base",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND (|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR  |Caesar's Legion Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |Nellis Airforce Base Unlock|"
+  },
+  {
+    "name": "Sunshine Boogie Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nellis Airforce Base",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND (|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR  |Caesar's Legion Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |Nellis Airforce Base Unlock|"
+  },
+  {
+    "name": "Young Hearts Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nellis Airforce Base",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Unlock| AND (|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR  |Caesar's Legion Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |Nellis Airforce Base Unlock| AND |Crimson Caravan Company Unlock|"
+  },
+  {
+    "name": "The Coyotes Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Aerotech Office Park",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Aerotech Office Park Unlock| AND |Westside Unlock|"
+  },
+  {
+    "name": "Keith's Caravan Charade Complete (Unlocked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Aerotech Office Park",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Aerotech Office Park Unlock|"
+  },
+  {
+    "name": "Left my Heart Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Aerotech Office Park",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Aerotech Office Park Unlock| AND |Cottonwood Cove Unlock|"
+  },
+  {
+    "name": "Debt Collector Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Wang Dang Atomic Tango Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "G.I. Blues Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Nothin' But a Hound Dog Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock| AND |Jacobstown Unlock| AND |Rex Unlock|"
+  },
+  {
+    "name": "Birds of a Feather Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock| AND |Cass Unlock|"
+  },
+  {
+    "name": "Reach For The Sky, Mister! Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Rotface's Lose Lips Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Smooth-Talking Criminal Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "High Times Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Friend of the Followers Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Long-Term Care Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Hat's Entertainment Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Flogging a Dead Corpse Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Freeside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "No, Not Much Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Bitter Springs",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Bitter Springs Unlock| AND |Camp Golf Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "Bitter Springs Infirmary Blues Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Bitter Springs",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Bitter Springs Unlock| AND (|Crimson Caravan Company Unlock| OR |Arcade Gannon Unlock|)"
+  },
+  {
+    "name": "Climb Ev'ry Mountain Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Bitter Springs",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Bitter Springs Unlock|"
+  },
+  {
+    "name": "Crazy, Crazy, Crazy Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Black Mountain",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Black Mountain Unlock|"
+  },
+  {
+    "name": "Boulder City Showdown Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Boulder City",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock|"
+  },
+  {
+    "name": "Medical Mystery Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Forlorn Hope",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Forlorn Hope Unlock|"
+  },
+  {
+    "name": "Return to Sender Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Forlorn Hope",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Forlorn Hope Unlock| AND |Boulder City Unlock| AND |Bitter Springs Unlock| AND |Novac Unlock| AND |Red Rock Canyon Unlock| AND |Camp Golf Unlock|"
+  },
+  {
+    "name": "Restoring Hope Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Forlorn Hope",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Forlorn Hope Unlock|"
+  },
+  {
+    "name": "Flags of Our Foul-Ups Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Golf",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Golf Unlock|"
+  },
+  {
+    "name": "Defacing the Humble Stone Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Boulder City",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Boulder City Unlock|"
+  },
+  {
+    "region": "New Vegas Side Quests",
+    "name": "The White Wash Complete",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "There Stands the Grass Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "I Don't Hurt Anymore Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "I Put a Spell on You Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "A Final Plan for Esteban Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "Dealing With Contreras Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:9| AND |Point Lookout Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "Not Worth A Hill of Corn and Beans Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "region": "New Vegas Unmarked Quests",
+    "name": "Silus Treatment Complete (Unmarked)",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "region": "New Vegas Unmarked Quests",
+    "name": "Poor Meat Makes Good Soup Complete (Unmarked)",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "region": "New Vegas Unmarked Quests",
+    "name": "Rest and Resupply Complete (Unmarked)",
+    "category": [
+      "Camp McCarran",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp McCarran Unlock|"
+  },
+  {
+    "name": "Eye for an Eye Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Searchlight",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Searchlight Unlock|"
+  },
+  {
+    "name": "We Will All Go Together Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Searchlight",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Searchlight Unlock|"
+  },
+  {
+    "name": "Wheel of Fortune Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Camp Searchlight",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Searchlight Unlock|"
+  },
+  {
+    "name": "You Can Depend on Me Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Crimson Caravan Company",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Crimson Caravan Company Unlock|"
+  },
+  {
+    "name": "Pressing Matters Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Crimson Caravan Company",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Crimson Caravan Company Unlock|"
+  },
+  {
+    "name": "Bye Bye Love Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Casinos",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Casinos Unlock|"
+  },
+  {
+    "name": "How Little We Know Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Casinos",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND (|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR |Caesar's Legion Main Quest Unlock|)"
+  },
+  {
+    "name": "Beyond the Beef Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Casinos",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Casinos Unlock|"
+  },
+  {
+    "name": "Talent Pool Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Casinos",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Casinos Unlock| AND |Novac Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "Cry Me a River Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Red Rock Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Red Rock Canyon Unlock|"
+  },
+  {
+    "name": "Oh My Papa Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Red Rock Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Red Rock Canyon Unlock| AND ((|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR |Yes Man Main Quest Unlock| OR |Caesar's Legion Main Quest Unlock|) OR |The Fort Unlock|)"
+  },
+  {
+    "name": "Why Can't We Be Friends? Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Red Rock Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Red Rock Canyon Unlock|"
+  },
+  {
+    "name": "Aba Daba Honeymoon Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Red Rock Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Red Rock Canyon Unlock| AND |Crimson Caravan Company Unlock| AND |Cottonwood Cove Unlock|"
+  },
+  {
+    "name": "Don't Make a Beggar of Me Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Red Rock Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Red Rock Canyon Unlock| AND |Sloan Unlock|"
+  },
+  {
+    "name": "That Lucky Old Sun Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "HELIOS One",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |HELIOS One Unlock|"
+  },
+  {
+    "name": "Still in the Dark Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Hidden Valley",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Hidden Valley Unlock| AND |Nellis Airforce Base Unlock| AND |NCRCF Unlock| AND |Nipton Unlock| AND |Camp Forlorn Hope Unlock|"
+  },
+  {
+    "name": "Eyesight to the Blind Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Hidden Valley",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Hidden Valley Unlock| AND |Black Mountain Unlock|"
+  },
+  {
+    "region": "New Vegas Unmarked Quests",
+    "name": "Hidden Valley Computer Virus Complete (Unmarked)",
+    "category": [
+      "Hidden Valley",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Hidden Valley Unlock|"
+  },
+  {
+    "name": "Pistol Packing Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Hidden Valley",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Hidden Valley Unlock|"
+  },
+  {
+    "name": "Guess Who I Saw Today Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Jacobstown",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Jacobstown Unlock|"
+  },
+  {
+    "name": "Unfriendly Persuasion Complete",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Jacobstown",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Jacobstown Unlock|"
+  },
+  {
+    "name": "Lilly and Leo Complete (Unmarked)",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Jacobstown Unlock| AND |Lilly Bowen Unlock|"
+  },
+  {
+    "name": "Trudy's Radio Repair Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Goodsprings",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ringo's Caravan Rules Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Goodsprings",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Exhumin' Nature Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Goodsprings",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barton the Fink",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Goodsprings",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pheeble Will Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Casinos",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |New Vegas Casinos Unlock|"
+  },
+  {
+    "name": "Classic Inspiration Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Other",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Novac Unlock| AND |Primm Unlock| AND |Camp McCarran Unlock| AND |HELIOS One Unlock| AND |Sunset Sasparilla HQ Unlock|"
+  },
+  {
+    "name": "Can You Find it in You Heart? Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Mojave Outpost",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Mojave Outpost Unlock|"
+  },
+  {
+    "name": "Heartaches By the Number",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Mojave Outpost Unlock| AND |Cass Unlock| AND |Crimson Caravan Company Unlock| and |Freeside Unlock|"
+  },
+  {
+    "name": "Keep Your Eyes on the Prize Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Mojave Outpost",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Mojave Outpost Unlock| AND |Nipton Unlock|"
+  },
+  {
+    "name": "I Fought the Law Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "NCRCF",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |NCRCF Unlock|"
+  },
+  {
+    "name": "Hard Luck Blues Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "NCR Sharecropper Farms",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |NCR Sharecropper Farms Unlock|"
+  },
+  {
+    "name": "Back in Your Backyard/We Are Legion Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nelson",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Forlorn Hope Unlock| AND |Nelson Unlock|"
+  },
+  {
+    "name": "The Moon Comes Over The Tower Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Misc.",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock|"
+  },
+  {
+    "name": "Cold, Cold Heart Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nipton",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Nipton Unlock| AND |Mojave Outpost Unlock|"
+  },
+  {
+    "name": "Booted! Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nipton",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Nipton Unlock|"
+  },
+  {
+    "name": "Someone to Watch Over Me Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "North Vegas Square",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |North Vegas Square Unlock| AND |NCR Sharecropper Farms Unlock|"
+  },
+  {
+    "name": "ED-E My Love Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND (|Hidden Valley Unlock| OR |Freeside Unlock|)"
+  },
+  {
+    "name": "For Auld Lang Syne",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND (|Mr. House Main Quest Unlock| OR |New California Republic Main Quest Unlock| OR |Caesar's Legion Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |Jacobstown Unlock| AND |NCR Sharecropper Farms Unlock| AND |Westside Unlock| AND |Arcade Gannon Unlock|"
+  },
+  {
+    "name": "Old School Ghoul Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Black Mountain Unlock| AND |Nellis Airforce Base Unlock| AND (|Camp McCarran Unlock| OR |Camp Forlorn Hope Unlock|) AND |Novac Unlock| AND |Raul Tejada Unlock|"
+  },
+  {
+    "name": "I Could Make You Care Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Companions",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |188 Trading Post Unlock| AND |Westside Unlock| AND (|Nelson Unlock| OR |Cottonwood Cove Unlock| OR |The Fort Unlock|) AND |Camp McCarran Unlock| AND |Nellis Airforce Base Unlock| AND |Freeside Unlock|"
+  },
+  {
+    "name": "My Kind of Town Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Primm",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Primm Unlock|"
+  },
+  {
+    "name": "A Pair of Dead Desperados, I Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Primm",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Primm Unlock|"
+  },
+  {
+    "name": "A Pair of Dead Desperados, II Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "North Vegas Square",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Primm Unlock| AND |North Vegas Square Unlock|"
+  },
+  {
+    "name": "A Valuable Lesson Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Sunset Sasparilla HQ",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Sunset Sasparilla HQ Unlock|"
+  },
+  {
+    "name": "The Legend of the Star Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Sunset Sasparilla HQ",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Sunset Sasparilla HQ Unlock|"
+  },
+  {
+    "name": "A Team of Moronic Mercenaries Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Primm",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Primm Unlock|"
+  },
+  {
+    "name": "Anywhere I Wander Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Nelson",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Camp Forlorn Hope Unlock| AND |Nelson Unlock|"
+  },
+  {
+    "name": "I Hear You Knocking Complete",
+    "region": "New Vegas Main Quest",
+    "category": [
+      "The Fort",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Nellis Airforce Base Unlock| AND |The Fort Unlock|"
+  },
+  {
+    "name": "The Finger of Suspicion Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "New Vegas Misc.",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |The Fort Unlock|"
+  },
+  {
+    "name": "Bleed Me Dry Complete",
+    "region": "New Vegas Side Quests",
+    "category": [
+      "Westside",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Westside Unlock|"
+  },
+  {
+    "name": "Saving (or Savaging) Sergeant Teddy Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "The Fort",
+      "Fallout New Vegas"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |The Fort Unlock|"
+  },
+  {
+    "name": "Claws Mended Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Sloan",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Sloan Unlock|"
+  },
+  {
+    "name": "Power to the People Complete",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Sloan",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Sloan Unlock|"
+  },
+  {
+    "name": "Claws Out Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Sloan",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Sloan Unlock|"
+  },
+  {
+    "name": "Meeting an Equal Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "North Vegas Square",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |North Vegas Square Unlock| AND |Guns Unlock|"
+  },
+  {
+    "name": "Andy and Charlie Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Novac",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Novac Unlock|"
+  },
+  {
+    "name": "The Screams of Brahmin Complete (Unmarked)",
+    "region": "New Vegas Unmarked Quests",
+    "category": [
+      "Novac",
+      "Fallout New Vegas"
+    ],
+    "requires": "|They Went That-a-Way Unlock| AND |Novac Unlock|"
+  },
+  {
+    "region": "Dead Money",
+    "name": "Sierra Madre Grand Opening! Complete",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Green Low Stakes Slot Machine Beaten (Police Building)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Showtime Bar Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Basic Ammo Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Medicine Item Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Find Collar 12: Christine Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abandoned Medical Safehouse Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chem Item Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oasis Cafe Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Blue Low Stakes Slot Machine Beaten (Oasis Cafe)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Orange Low Stakes Slot Machine Beaten (Halfway through Residential District)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Basic Construction Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Redmoon Apartments Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Postal Office Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Residential Metro Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Find Collar 14: Dean Domino Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sewer Entrance Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sewer Monitoring Station Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Yellow Low Stakes Slot Machine Defeated (Ruined Store w/Cloud Pocket, Salida Del Sol South)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fires in the Sky Completed",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Basic Security Weapons Clearance Item Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Girl Defeated (Puesta Del Sol North)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Bosses",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Construction Foreman Item Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Service Route Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Derelict Housing Cleared",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Locations",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mixed Signals Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruined Store Boss Defeated",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Bosses",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grey Low Stakes Slot Machine Defeated (Outside Ruined Store in Puesta Del Sol South)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Red Low Stakes Slot Machine Defeated (Near Building w/Scaffolding in Puesta Del Sol South)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Strike Up the Band Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Violet Low Stakes Slot Machine Defeated (Plaza Center before Gala Bell Tower",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Low Stakes Slot Machines",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Girl Defeated (Gala)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Bosses",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Giant Red Ghost Defeated (Wild Wasteland Only)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Bosses",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Girl Defeated (Break Room)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Bosses",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Curtain Call at the Tampico Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Put the Beast Down Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Girl Defeated (Lobby after Dog/God Quest)",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Bosses",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Police Chief Item Codes Collected",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Codes",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Last Luxuries Complete",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Dead Money",
+    "name": "Father Elijah Killed",
+    "category": [
+      "Dead Money Endings",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Father Elijah Trapped",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Endings",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dry Canyon Deathclaws Beaten (Ambush)",
+    "region": "Dead Money",
+    "category": [
+      "Dry Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dry Canyon Deathclaws Blocking Merchant Beaten",
+    "region": "Dead Money",
+    "category": [
+      "Dry Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "This Canyon Ain't Big Enough Completed",
+    "region": "Dead Money",
+    "category": [
+      "Dry Canyon",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Happy Trails Expedition Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arrival at Zion Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gone Fishin' Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Roadside Attraction Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tourist Trap Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Deliverer of Sorrows Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "River Monsters Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Advance Scouts Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Grand Staircase Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Honest Hearts",
+    "name": "The Treacherous Road Complete",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Family Affair Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Civilized Man's Burden Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rite of Passage Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gathering Storms Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crush the White Legs Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Flight From Zion Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Prisoners of War Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Retake the Bridge Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sanctity of the Dead Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Departing Zion Complete",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "All Survivalist's Caches Collected",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "All Survivalist's Terminals Read",
+    "region": "Honest Hearts",
+    "category": [
+      "Honest Hearts",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midnight Science Fiction Feature! Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Welcome to the Big Empty Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "All My Friends Have Off Switches Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "X-2: Strange Transmissions! Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "X-8: High School Horror! Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "X-13: Attack of the Infiltrator! Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sonic Emitter Upgrade Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Picking Your Brains Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Influencing People Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Field Research Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "When Visitors Attack! Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "On the Same Wavelength Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Brain's Best Friend Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "He Came... And Went Completed",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "What's In A Name? Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coming Out of Her Shell Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "X-8 Data Retrieval Test Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Project X-13 Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Old World Blues Complete",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "All Old World Blues Locations Found",
+    "region": "Old World Blues",
+    "category": [
+      "Old World Blues",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Reunion Complete",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Silo Complete",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Job Complete",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Launch Complete",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Divide Complete",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rawr Beaten",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trailer on High Road Deathclaw Beaten",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Tunnelers Completed",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Courier Completed",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The End/The Apocalypse Completed",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ulysses' Holotapes Collected",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ralphie Posters Observed",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ED-E Upgrades Collected",
+    "region": "Lonesome Road",
+    "category": [
+      "Lonesome Road",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 1 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 2 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 3 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 4 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 5 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 6 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 7 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 8 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 9 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Safe 10 Opened",
+    "region": "A Trail of Crumbs",
+    "category": [
+      "A Trail Of Crumbs",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "She Runs on Motivation Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "We Aren't In Kansas Anymore Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Finding Godfrey Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Uncharted Territory/Fight Fire With Fire Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Behind Enemy Lines/Double Agent Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Unusual Request Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Give It a Good Mopping Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Like Rats In The Walls/The Final Stand Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Friend to the Needy Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Smaller Shovel, Smaller Hole Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lost Lovers Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Accidents Happen Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eviction Notice Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Dashboard Farewell Complete",
+    "region": "Alton. IL",
+    "category": [
+      "Alton IL Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "An Apropos Proposal Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Painful Head Pain Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Booze, Grub, and Tunnels Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Washington's Malevolence",
+    "name": "A Breath of Fresh Air Complete",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great Bank, Part I Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Brig Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temporary Setbacks Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Synchronized Swimming Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great Bank, Part II Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jumping The Gun Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Memento Mori Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Main Quest",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Southern Survivalist Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lebowski's World Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Old Runners Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Scorched Man Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Janitor's Keys Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Clearing The Way Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Round and Round Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Siobhan's Story Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Trapper's Stash Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "He Went to Georgia Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Cogs That Bind Complete",
+    "region": "Washington's Malevolence",
+    "category": [
+      "Washington's Malevolence Side Quests",
+      "Fallout 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great Expedition Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost and Naked Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Bottle of Woe Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hidden Hydration Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Busy Bee Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Like My Own Son Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dug Too Deep Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nothing Left Behind Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Havasu Blues",
+    "name": "Six-Legged Menace Complete",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Downtown Delivery Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "What's the Point? Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Cleaner Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spreading the Word Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "To Be Hole Again Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Havasu Hunter, Part 1 Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Havasu Hunter, Part 2 Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Havasu Hunter, Part 3 Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Havasu Hunter, Part 4 Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Searching For The Lost Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Losing What You Had Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Paciscor a Rumpitor/A Sorry State Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Main Quest",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Setting the Stage Complete (can be marked as done if failed)",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Havasu Blues",
+    "name": "Turning Tail Complete",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rotten Feast Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great Expedition, Resumed Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Havasu Heist Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Errand For Edwin Complete",
+    "region": "Havasu Blues",
+    "category": [
+      "Havasu Blues Side Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Blood Ties",
+    "region": "Fallout 3 Side Quests",
+    "category": [
+      "Arefu",
+      "Fallout 3"
+    ],
+    "requires": "|Arefu Unlock|"
+  },
+  {
+    "name": "Find Collar 8: \"Dog\"",
+    "region": "Dead Money",
+    "category": [
+      "Dead Money Quests",
+      "Fallout New Vegas"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory at Hoover Dam (New Vegas)",
+    "region": "New Vegas Branching Quests",
+    "victory": true,
+    "category": [
+      "New Vegas Main Quest"
+    ],
+    "requires": "|New Vegas Unlock| AND |They Went That-a-Way Unlock| AND |Ring-a-Ding-Ding! Unlock| AND |Dead Money Unlock| AND |Honest Hearts Unlock| AND |Old World Blues Unlock| AND |Lonesome Road Unlock| AND (|New California Republic Main Quest Unlock| OR |Caesar's Legion Main Quest Unlock| OR |Mr. House Main Quest Unlock| OR |Yes Man Main Quest Unlock|) AND |ED-E Unlock|"
+  },
+  {
+    "name": "Enclave Mobile Base Destroyed",
+    "region": "Fallout 3 Main Quest",
+    "victory": true,
+    "category": [
+      "Fallout 3 Main Quest"
+    ],
+    "requires": "|Progressive Fallout 3 Main Quest:9| AND |Point Lookout Unlock| AND |Bailey's Crossroads Unlock| AND |Broken Steel Unlock| AND |The Pitt Unlock| AND |Mothership Zeta Unlock|"
+  }
+]

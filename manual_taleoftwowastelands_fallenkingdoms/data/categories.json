@@ -1,0 +1,14 @@
+{
+	"zfallout_3": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_fallout_3"
+        ]
+    },
+    "zfallout_new_vegas": {
+        "hidden": true,
+        "yaml_option": [
+            "enable_fallout_new_vegas"
+		]
+	}
+}
