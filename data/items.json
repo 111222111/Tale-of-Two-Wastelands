@@ -818,5 +818,59 @@
       "Fallout 3"
     ],
     "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Capital Building Unlock",
+    "category": [
+      "Capital Building",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Springvale Unlock",
+    "category": [
+      "Springvale",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mama Dolce's Unlock",
+    "category": [
+      "Mama Dolce's",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rebuild the Capital Side Quests Unlock",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fort Bannister Unlock",
+    "category": [
+      "Fort Bannister",
+      "Fallout 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pennsylvania Avenue Unlock",
+    "category": [
+      "Pennsylvania Avenue",
+      "Fallout 3"
+    ],
+    "progression": true
   }
 ]

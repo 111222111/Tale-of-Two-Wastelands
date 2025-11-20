@@ -180,7 +180,7 @@
     "requires": []
   },
   {
-    "name": "Operation Fly Swatter Completed",
+    "name": "Operation Fly Swatter Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -189,7 +189,7 @@
     "requires": []
   },
   {
-    "name": "Operation Fallen Eagle Completed",
+    "name": "Operation Fallen Eagle Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -198,34 +198,34 @@
     "requires": []
   },
   {
-    "name": "Operation Paradise Liberated Completed",
+    "name": "Operation Paradise Liberated Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
       "Fallout 3"
     ],
-    "requires": []
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Paradise Falls Unlock|"
   },
   {
-    "name": "Operation Ugly Completed",
+    "name": "Operation Ugly Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
       "Fallout 3"
     ],
-    "requires": []
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Vernon Square Unlock|"
   },
   {
-    "name": "Operation Thornton Completed",
+    "name": "Operation Thornton Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
       "Fallout 3"
     ],
-    "requires": []
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Capital Building Unlock|"
   },
   {
-    "name": "Operation Emancipation/Lord of the Pitt Completed",
+    "name": "Lord of the Pitt/The Second Scourge Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -234,7 +234,7 @@
     "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |The Pitt Unlock|"
   },
   {
-    "name": "The Ghosts of the Past Completed",
+    "name": "The Future of the Brotherhood Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -243,7 +243,7 @@
     "requires": []
   },
   {
-    "name": "Operation Clear Skies Completed",
+    "name": "Operation Clear Skies Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -252,7 +252,7 @@
     "requires": []
   },
   {
-    "name": "Operation Rot Completed",
+    "name": "Operation Rot Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -261,7 +261,16 @@
     "requires": []
   },
   {
-    "name": "Operation Detention Completed",
+    "name": "Operation Detention Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Springvale Unlock|"
+  },
+  {
+    "name": "Operation Power Surge Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -270,7 +279,16 @@
     "requires": []
   },
   {
-    "name": "Operation Power Surge Completed",
+    "name": "Operation End of Contract Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Fort Bannister Unlock|"
+  },
+  {
+    "name": "Atomic Harvest Complete",
     "region": "Rebuild the Capital",
     "category": [
       "Rebuild the Capital",
@@ -279,40 +297,13 @@
     "requires": []
   },
   {
-    "name": "Operation End of Contract Completed",
-    "region": "Rebuild the Capital",
-    "category": [
-      "Rebuild the Capital",
-      "Fallout 3"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Atomic Harvest Completed",
-    "region": "Rebuild the Capital",
-    "category": [
-      "Rebuild the Capital",
-      "Fallout 3"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Death of Raider Leaders Operation Completed",
-    "region": "Rebuild the Capital",
-    "category": [
-      "Rebuild the Capital",
-      "Fallout 3"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Parade on Penn Ave. Completed",
+    "name": "Parade on Penn Avenue Complete",
     "region": "Broken Steel",
     "category": [
       "Rebuild the Capital",
       "Fallout 3"
     ],
-    "requires": []
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Pennsylvania Avenue Unlock|"
   },
   {
     "name": "The Local Flavor Complete",
@@ -612,7 +603,7 @@
     "requires": "|Underworld Unlock| AND |Rivet City Unlock| AND |Progressive Fallout 3 Main Quest:7|"
   },
   {
-    "name": "Hired Help Completed (Unmarked)",
+    "name": "Hired Help Complete (Unmarked)",
     "region": "Fallout 3 Unmarked Quests",
     "category": [
       "Underworld",
@@ -2364,7 +2355,7 @@
     "requires": []
   },
   {
-    "name": "Fires in the Sky Completed",
+    "name": "Fires in the Sky Complete",
     "region": "Dead Money",
     "category": [
       "Dead Money Quests",
@@ -2580,7 +2571,7 @@
     "requires": []
   },
   {
-    "name": "This Canyon Ain't Big Enough Completed",
+    "name": "This Canyon Ain't Big Enough Complete",
     "region": "Dead Money",
     "category": [
       "Dry Canyon",
@@ -2904,7 +2895,7 @@
     "requires": []
   },
   {
-    "name": "He Came... And Went Completed",
+    "name": "He Came... And Went Complete",
     "region": "Old World Blues",
     "category": [
       "Old World Blues",
@@ -3030,7 +3021,7 @@
     "requires": []
   },
   {
-    "name": "The Tunnelers Completed",
+    "name": "The Tunnelers Complete",
     "region": "Lonesome Road",
     "category": [
       "Lonesome Road",
@@ -3039,7 +3030,7 @@
     "requires": []
   },
   {
-    "name": "The Courier Completed",
+    "name": "The Courier Complete",
     "region": "Lonesome Road",
     "category": [
       "Lonesome Road",
@@ -3048,7 +3039,7 @@
     "requires": []
   },
   {
-    "name": "The End/The Apocalypse Completed",
+    "name": "The End/The Apocalypse Complete",
     "region": "Lonesome Road",
     "category": [
       "Lonesome Road",
@@ -3741,7 +3732,7 @@
     "requires": []
   },
   {
-    "name": "Blood Ties",
+    "name": "Blood Ties Complete",
     "region": "Fallout 3 Side Quests",
     "category": [
       "Arefu",
@@ -3750,7 +3741,7 @@
     "requires": "|Arefu Unlock|"
   },
   {
-    "name": "Find Collar 8: \"Dog\"",
+    "name": "Find Collar 8: \"Dog\" Complete",
     "region": "Dead Money",
     "category": [
       "Dead Money Quests",
@@ -3775,5 +3766,158 @@
       "Fallout 3 Main Quest"
     ],
     "requires": "|Progressive Fallout 3 Main Quest:9| AND |Point Lookout Unlock| AND |Bailey's Crossroads Unlock| AND |Broken Steel Unlock| AND |The Pitt Unlock| AND |Mothership Zeta Unlock|"
+  },
+  {
+    "name": "The Underworld Scourge/Rebuilding the Underworld Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Underworld Unlock|"
+  },
+  {
+    "name": "Of Knights and Men Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Seward Square Unlock|"
+  },
+  {
+    "name": "Clipped Wings Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Atomic Harvest Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Grand Dominion Smokes Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Chevy Chase Unlock| AND |Little Lamplight Unlock|"
+  },
+  {
+    "name": "On the Rocks Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "The Tanner's Apprentice Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Dreams of Electric Molerats Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Mama Dolce's Unlock|"
+  },
+  {
+    "name": "Raising the Underworld Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Underworld Unlock|"
+  },
+  {
+    "name": "The Power of Persuasion Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Clipped Wings Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Emancipation Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |The Pitt Unlock|"
+  },
+  {
+    "name": "Of Knights and Men Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Steel Matrimony Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "name": "Mending the Schism Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Brotherhood Outcasts Unlock|"
+  },
+  {
+    "name": "Guns over Butter Complete",
+    "region": "Rebuild the Capital",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Rebuild the Capital Side Quests Unlock|"
+  },
+  {
+    "region": "Rebuild the Capital",
+    "name": "Mutant Meltdown Complete",
+    "category": [
+      "Rebuild the Capital",
+      "Fallout 3"
+    ],
+    "requires": "|Broken Steel Unlock| AND |Progressive Fallout 3 Main Quest:9| AND |Rebuild the Capital Unlock| AND |Little Lamplight Unlock|"
   }
 ]
